@@ -1,0 +1,6 @@
+{
+  "name": "MenuQR TJ",
+  "description": "Modern SaaS digital QR menu and ordering platform for restaurants, cafes, teahouses, and food courts in Tajikistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
